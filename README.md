@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @huriyekurt
-- 🌱 I’m currently learning c#, sql, python
+- Hi, I’m @huriyekurt
+- I’m currently learning c#, sql, oop
   
 
 <!---
